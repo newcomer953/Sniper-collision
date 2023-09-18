@@ -1,0 +1,11 @@
+<dynamic_object>
+    <diesel materials="units/pd2_dlc_pxp3/weapons/wpn_fps_snp_contender_pts/wpn_fps_snp_contender_conversion" orientation_object="rp_wpn_fps_snp_contender_conversion" />
+    <bodies>
+        <body name="body_static" enabled="true" template="static">
+            <object name="rp_wpn_fps_snp_contender_conversion" />
+            <object name="c_boundingbox" collision_type="box" padding="-2.5" />
+        </body>
+    </bodies>
+    <lights />
+</dynamic_object>
+
